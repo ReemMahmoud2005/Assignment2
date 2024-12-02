@@ -1,0 +1,24 @@
+#head h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: "Anton", sans-serif; 
+    margin: 53.6px 0px;
+}
+#head p{
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin: 35px 0px;
+}
+#head button{
+    cursor:unset;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    font-size: 13.333px;
+    font-weight: 400;
+}
+#head button:hover{
+    background-color: green;
+}
